@@ -1,0 +1,14 @@
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/bin/Debug/netcoreapp2.2/mtw_dnet_web.deps.json
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/bin/Debug/netcoreapp2.2/mtw_dnet_web.runtimeconfig.json
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/bin/Debug/netcoreapp2.2/mtw_dnet_web.runtimeconfig.dev.json
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/bin/Debug/netcoreapp2.2/mtw_dnet_web.dll
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/bin/Debug/netcoreapp2.2/mtw_dnet_web.pdb
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/obj/Debug/netcoreapp2.2/mtw_dnet_web.csprojAssemblyReference.cache
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/obj/Debug/netcoreapp2.2/mtw_dnet_web.csproj.CoreCompileInputs.cache
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/obj/Debug/netcoreapp2.2/mtw_dnet_web.RazorAssemblyInfo.cache
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/obj/Debug/netcoreapp2.2/mtw_dnet_web.RazorAssemblyInfo.cs
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/obj/Debug/netcoreapp2.2/mtw_dnet_web.AssemblyInfoInputs.cache
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/obj/Debug/netcoreapp2.2/mtw_dnet_web.AssemblyInfo.cs
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/obj/Debug/netcoreapp2.2/mtw_dnet_web.RazorTargetAssemblyInfo.cache
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/obj/Debug/netcoreapp2.2/mtw_dnet_web.dll
+/Users/jafrancov/dev/msdotnet/mtw_dnet_web/obj/Debug/netcoreapp2.2/mtw_dnet_web.pdb
