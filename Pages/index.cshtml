@@ -1,0 +1,27 @@
+@page
+
+<h1>MS.Net</h1>
+
+@{
+    // var alumno = "Alejandro Franco";
+    // var alumno_username = "@jafrancov";
+    var alumno = new Alumno();
+    alumno.Nombre = "Alejandro Franco";
+    alumno.Edad = 34;
+    alumno.Matricula = "02603195";
+}
+
+<p>La hora es @DateTime.Now</p>
+<p>Alumno @alumno.Nombre | @alumno.Edad años | Matrícula @alumno.Matricula </p>
+
+
+@functions{
+    public class Persona {
+        public string Nombre { get; set; }
+        public int Edad { get; set; }
+    }
+
+    public class Alumno : Persona {
+        public string Matricula { get; set; }
+    }
+}
